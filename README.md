@@ -28,10 +28,20 @@ Stop issuing CDs until more funds are deposited into the DAO that governs the ba
 ## What determines the rates you get? 
 Currently multiple "banks" will submit rates via an onchain oracle
 
-
 ## How to interact with CDRW
 1. Web interface
 2. ENS Domain (deposit.eth) https://manager.ens.domains/name/deposit.eth
+
+
+## Sponsors used
+1. Provable Things to enable bankers to stream rates to depositors
+2. ENS to provide a direct but human friendly path to deposit 
+3. Torus to onboard users with a familiar login experience
+4. 
+
+
+
+
 
 
 
